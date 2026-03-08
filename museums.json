@@ -22,7 +22,7 @@
             {
                 "name": "Aboriginal shield",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bark_shield_2008_british_museum.jpg/320px-Bark_shield_2008_british_museum.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bark_shield_2008_british_museum.jpg",
                     "license": "CC BY-SA 4.0",
                     "attribution": {
                         "name": "geni"
@@ -41,7 +41,7 @@
             {
                 "name": "Benin Bronzes",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Benin_brass_plaque_03_%28cropped%29.jpg/800px-Benin_brass_plaque_03_%28cropped%29.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Benin_brass_plaque_03_%28cropped%29.jpg",
                     "license": "CC BY-SA 3.0",
                     "attribution": {
                         "name": "Michel wal"
@@ -60,7 +60,7 @@
             {
                 "name": "Diamond Sutra",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/1024px-Jingangjing.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
                     "license": "Public Domain",
                     "attribution": {
                         "name": "The colophon"
@@ -99,7 +99,7 @@
             {
                 "name": "Hoa Hakananai'a",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG/800px-Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.jpg",
                     "license": "CC BY-SA 4.0",
                     "attribution": {
                         "name": "James Miles"
@@ -118,7 +118,7 @@
             {
                 "name": "Moel Hebog shield",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg/800px-Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg",
                     "license": "CC BY-SA 4.0",
                     "attribution": {
                         "name": "Titus Gold"
@@ -137,7 +137,7 @@
             {
                 "name": "Mold gold cape",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Mold_cape.jpg/300px-The_Mold_cape.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Mold_cape.jpg",
                     "license": "CC BY 2.0",
                     "attribution": {
                         "name": "Mark Ramsay"
@@ -156,7 +156,7 @@
             {
                 "name": "Rhos Rydd Shield",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg/800px-Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg",
                     "license": "CC BY-SA 4.0",
                     "attribution": {
                         "name": "Titus Gold"
@@ -175,7 +175,7 @@
             {
                 "name": "Rosetta Stone",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/800px-Rosetta_Stone.JPG",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rosetta_stone.jpg",
                     "license": "CC BY-SA 4.0",
                     "attribution": {
                         "name": "Hans Hillewaert"
@@ -216,7 +216,7 @@
             {
                 "name": "Tsavo Man-Eaters",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lionsoftsavo2008.jpg/800px-Lionsoftsavo2008.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lionsoftsavo2008.jpg",
                     "license": "CC BY-SA 3.0",
                     "attribution": {
                         "name": "Jeffrey Jung"
@@ -237,7 +237,7 @@
     {
         "name": "Neues Museum",
         "image": {
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/640px-Neues_Museum_-_Joy_of_Museums.jpg",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Neues_Museum_-_Joy_of_Museums.jpg",
             "license": "CC BY-SA 4.0",
             "attribution": {
                 "name": "Joyofmuseums",
@@ -336,7 +336,7 @@
             {
                 "name": "Gutenstein sword scabbard",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wolfskrieger_2.jpg/800px-Wolfskrieger_2.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wolfskrieger_2.jpg",
                     "license": "CC BY-SA 2.0",
                     "attribution": {
                         "name": "Schristian Bickel"
