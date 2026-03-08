@@ -2,7 +2,7 @@
     {
         "name": "British Museum",
         "image": {
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/British_Museum_%28aerial%29.jpg/1024px-British_Museum_%28aerial%29.jpg",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/8/86/British_Museum_%28aerial%29.jpg",
             "license": "CC BY 2.0",
             "attribution": {
                 "name": "Luke Massey & the Greater London National Park City Initiative",
@@ -79,7 +79,7 @@
             {
                 "name": "Elgin Marbles",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Elgin_Marbles_British_Museum.jpg/1024px-Elgin_Marbles_British_Museum.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Elgin_Marbles_British_Museum.jpg",
                     "license": "CC BY-SA 2.0",
                     "attribution": {
                         "name": "Andrew Dunn",
@@ -196,7 +196,7 @@
     {
         "name": "Field Museum of Natural History",
         "image": {
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Field_Museum_N.jpg/800px-Field_Museum_N.jpg",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_N.jpg",
             "license": "CC BY-SA 4.0",
             "attribution": {
                 "name": "Sea Cow",
@@ -257,7 +257,7 @@
             {
                 "name": "Nefertiti Bust",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/800px-Nofretete_Neues_Museum.jpg",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nofretete_Neues_Museum-edit.jpg",
                     "license": "CC BY-SA 3.0",
                     "attribution": {
                         "name": "Philip Pikart"
@@ -317,10 +317,11 @@
             {
                 "name": "Eberswalde Hoard",
                 "image": {
-                    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nachbildung_Goldschtz_ausgestellt_Foto_B._Klitzke.jpg/1024px-Nachbildung_Goldschtz_ausgestellt_Foto_B._Klitzke.jpg",
-                    "license": "CC BY-SA 3.0",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eberswalde-Messingwerk-Siedlung-Vitrine.jpg",
+                    "license": "CC BY 4.0",
                     "attribution": {
-                        "name": "Birgit Klitzke"
+                        "name": "Bildarbeiter",
+                        "link": "https://commons.wikimedia.org/wiki/User:Bildarbeiter"
                     }
                 },
                 "description": {
